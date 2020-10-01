@@ -1,0 +1,137 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+
+
+}
+h1
+{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+    color: #66BFBF;
+  }
+
+
+  h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+font-family: 'Montserrat', sans-serif;
+color: #11999E;
+}
+p{
+    line-height: 2;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+border-bottom: none;
+width: 10%;
+margin: 100px auto;
+}
+a{
+  color: #fa7d09;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+a:hover{
+  color: #EAF6F6;
+}
+.top-container{
+  background-color: #cffffe;
+  position: relative;
+  padding-top: 100px;
+
+}
+.skills{
+  background-color: #FFE8DC;
+}
+.middle-container{
+  background-color: #FFE8DC;
+}
+.contact-me{
+  background-color: #FFE8DC;
+}
+
+.copymess{
+  color: #EAF6F6;
+  padding: 20px 0px;
+  font-size: 0.75rem;
+}
+.middle-container{
+margin: 100px 0;
+}
+.bottom-container{
+background-color: aquamarine;
+padding: 50px 0 20px;
+}
+
+.top-cloud{
+position: absolute;
+right: 300px;
+top: 40px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+
+}
+.publ{
+  width: 40%;
+  float: right;
+  margin-left: 30px;
+}
+.devl{
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.contmess{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.btn {
+	background:linear-gradient(to bottom, #455fc7 5%, #bd2a60 100%);
+	background-color:#455fc7;
+	border-radius:39px;
+	border:2px solid #f50a60;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:26px;
+	font-weight:bold;
+	padding:12px 33px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #bd2a60 5%, #455fc7 100%);
+	background-color:#bd2a60;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
